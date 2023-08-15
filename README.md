@@ -1,5 +1,5 @@
 # desafio-rocketseat-node
-Backend de uma aplicação em nodejs, utilizando express, knex.js, bcrypt e nodemailer 
+Backend de uma aplicação em nodejs (CRUD), utilizando express, knex.js, bcrypt e nodemailer 
 
 //Para testar o reset password:
 1. npm install
